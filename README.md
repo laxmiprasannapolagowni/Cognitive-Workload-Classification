@@ -1,49 +1,65 @@
-# Cognitive Workload Classification Using Machine Learning
+# 🧠 Cognitive Workload Classification Using Machine Learning
 
-This project focuses on improving cognitive workload classification using multimodal sensors' data. It uses machine learning and deep learning techniques to analyze sensor-based data and classify workload levels effectively.
+## 📖 Project Overview
 
-## Project Overview
+This project focuses on improving cognitive workload classification using multimodal sensor data. It applies machine learning techniques to analyze sensor data and classify cognitive workload levels accurately.
 
-Cognitive workload refers to the amount of mental effort required to perform a task. This project uses multimodal sensor data such as physiological and behavioral signals to classify workload levels and support intelligent decision-making systems.
+---
 
-## Technologies Used
+## 🎯 Objectives
+
+- Classify cognitive workload using multimodal sensor data
+- Apply machine learning techniques for prediction
+- Improve classification accuracy
+- Provide a simple Flask-based prediction interface
+
+---
+
+## 🛠️ Technologies Used
 
 - Python
 - Machine Learning
-- Deep Learning
-- Jupyter Notebook
 - Flask
-- HTML
-- CSS
 - Pandas
 - NumPy
 - Scikit-learn
+- HTML
+- CSS
+- Jupyter Notebook
 
-## Project Files
+---
 
-- `AFD.ipynb` - Notebook for AFD dataset analysis and model development
-- `WAFD.ipynb` - Notebook for WAFD dataset analysis and model development
-- `app.py` - Flask application file
-- `dataset/` - Dataset files used for model training
-- `models/` - Trained model and scaler files
-- `templates/` - HTML pages for the web application
+## 📂 Project Structure
 
-## Features
+```
+Cognitive-Workload-Classification/
+│── dataset/
+│── models/
+│── templates/
+│── AFD.ipynb
+│── WAFD.ipynb
+│── app.py
+│── README.md
+```
+
+---
+
+## ✨ Features
 
 - Data preprocessing
 - Feature extraction
-- Machine learning model training
-- Cognitive workload classification
-- Flask-based prediction interface
-- Real-time user input and result display
+- Machine Learning model training
+- Cognitive workload prediction
+- Flask web interface
 
-## Featured Model
+---
 
-The project uses machine learning and deep learning-based classification techniques to improve cognitive workload prediction accuracy using multimodal sensor data.
+## 👩‍💻 Author
 
-## How to Run
+**Laxmiprasannapolagowni**
 
-1. Clone the repository:
+📧 Email: laxmiprasannapolagowni@gmail.com
 
-```bash
-git clone https://github.com/laxmiprasannapolagowni/Cognitive-Workload-Classification.git
+💼 LinkedIn: https://www.linkedin.com/in/laxmiprasannapolagowni/
+
+🐙 GitHub: https://github.com/laxmiprasannapolagowni
